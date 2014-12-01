@@ -1,0 +1,14 @@
+.update-success {
+    padding: 12px;
+    -webkit-border-radius: 6px 6px 6px 6px;
+    border-radius: 6px 6px 6px 6px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    width: 1000px;
+    margin: 0 auto;
+    z-index: 9;
+    opacity: 0.9;
+    bottom: 70px;
+    display: none;
+}
